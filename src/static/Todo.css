@@ -1,0 +1,12 @@
+#taskType {
+    width: auto;
+    display: inline-flex;
+}
+
+select {
+    display: inline-flex;
+}
+
+.modal {
+    height: 400px;
+}
